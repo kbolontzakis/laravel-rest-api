@@ -1,10 +1,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Laravel REST API for Products, Tags</h3>
+  <h3 align="center">Back-end with Laravel</h3>
 
   <p align="center">
-    I have used this repo (ishaqadhel/docker-laravel-mysql-nginx-starter) as a starting step. It provides the docker definition file / server configuration and a laravel new project.
+    This Laravel REST Api project is designed to demonstrate my proficiency in building, deploying, and managing web applications using Laravel, a powerful PHP framework, within a Docker container environment. I have used this repo (ishaqadhel/docker-laravel-mysql-nginx-starter) as a starting point. It provides the docker definition file / server configuration and a laravel new project.
     <br />
     You can see the full README of that project here: http://github.com/ishaqadhel/docker-laravel-mysql-nginx-starter#readme
     <br />
